@@ -244,7 +244,7 @@ class AppWindow:
         Settings.LIT, Settings.UNLIT, Settings.NORMALS, Settings.DEPTH
     ]
 
-    BODY_MODEL_NAMES = ["SMPL", "SMPLX", "MANO", "FLAME"]
+    BODY_MODEL_NAMES = ["SMPL", ]#"SMPLX", "MANO", "FLAME"]
     BODY_MODEL_GENDERS = {
         'SMPL': ['neutral', 'male', 'female'],
         'SMPLX': ['neutral', 'male', 'female'],

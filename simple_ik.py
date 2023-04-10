@@ -74,3 +74,7 @@ if __name__ == '__main__':
     ax.scatter(opt_joints[:, 0], opt_joints[:, 1], opt_joints[:, 2], c='r', marker='o')
     plt.show()
 
+
+
+
+
